@@ -1,0 +1,30 @@
+{
+  "name": "msa",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 2 ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wijou222/MEAN-stack-with-ANGULAR-2-.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "Angular",
+    "2",
+    "APP"
+  ],
+  "author": "wejden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wijou222/MEAN-stack-with-ANGULAR-2-/issues"
+  },
+  "homepage": "https://github.com/wijou222/MEAN-stack-with-ANGULAR-2-#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  }
+}
